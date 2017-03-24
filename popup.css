@@ -1,0 +1,23 @@
+body {
+	background-color: #efefef;
+	width: 250px	;
+}
+
+form {
+	display: block;
+}
+
+.text {
+	float: left;
+	padding: 3px;
+	font-family: sans-serif;
+}
+
+input {
+	float: left;
+}
+
+.disable {
+	float: left;
+	margin-top: 5px;
+}
